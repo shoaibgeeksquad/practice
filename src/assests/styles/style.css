@@ -1,0 +1,7 @@
+@import './common.css';
+@import './flex.css';
+
+body{
+    padding: 0px;
+    margin: 0px;
+}

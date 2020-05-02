@@ -1,0 +1,119 @@
+.main-div-of-portfolio-component{
+    background:#1791d1;
+    padding: 0px 0px 20px 0px;
+}
+.main-div-of-portfolio-component .portfolio-background-color{
+    border-bottom: 1px solid black;
+}
+/* portfolio heading css */
+.portfolio-background-color .portfolio-heading-div{
+    clip-path: polygon(0% 0%, 56% 0, 91% 83%, 100% 100%, 61% 100%, 0 100%, 0 60%);
+    background: black;
+    width: 380px;
+    color: white;
+    opacity: 0.9;
+}
+.portfolio-background-color .portfolio-heading-div h5{
+    margin: 0px;
+    padding:6px 0px 6px 29px;
+}
+.portfolio-background-color .mrg-right{
+    margin:0px 80px 0px 0px;
+}
+/* list of data css */
+.main-div-of-portfolio-component .list-of-data h4{
+    color: white;
+    opacity: 0.9;
+}
+.main-div-of-portfolio-component .mrg-top{
+    margin: -41px 0px 0px 0px;
+}
+
+/* tables css */
+.main-div-of-portfolio-component .heading-of-portfolio-tables h2{
+    text-align: center;
+    color: #fff;
+    opacity: 0.9;
+}
+.main-div-of-portfolio-component  table{
+    border-collapse: collapse;
+}
+.main-div-of-portfolio-component  table thead tr th{
+    border: 1px solid black;
+    color: #929c67;
+    padding: 7px 17px 7px 17px;
+}
+.main-div-of-portfolio-component  table tbody tr td{
+    border: 1px solid black;
+    padding: 7px 17px 7px 17px;
+}
+.main-div-of-portfolio-component  table tbody tr td .circle-mrg{
+    margin: 0px 0px 0px 27px;
+}
+.main-div-of-portfolio-component .mrg-btw-tables{
+    margin: 0px 26px 0px 0px;
+}
+/* traders info css */
+.main-div-of-portfolio-component .main-div-of-traders h2{
+    color: #fff;
+    margin: 0px 0px 0px 12px;
+    padding: 30px 0px 0px 0px;
+    opacity: 0.9;
+}
+.main-div-of-portfolio-component .main-div-of-traders ul{
+    background: #202021;
+    list-style: none;
+    padding: 11px 0px 10px 0px;
+    color: #836f06;
+}
+.main-div-of-portfolio-component .main-div-of-traders ul .li-down{
+    margin: 13px 0px 0px -7px;
+}
+.main-div-of-portfolio-component .main-div-of-traders ul .green-color{
+    color: green;
+}
+.main-div-of-portfolio-component .main-div-of-traders ul .red-color{
+    color: red;
+}
+.main-div-of-portfolio-component .main-div-of-traders ul .green-arrow{
+    padding: 0px 14px 0px 1px;
+    background: green;
+    clip-path: polygon(49% 21%, 4% 81%, 92% 81%);
+    width: 20px;
+}
+.main-div-of-portfolio-component .main-div-of-traders ul .red-arrow{
+    padding: 0px 14px 0px 1px;
+    background: red;
+    clip-path: polygon(47% 79%, 1% 30%, 91% 31%);
+    width: 20px;
+}
+.main-div-of-portfolio-component .below-table .plus{
+    padding: 20px 30px 0px 0px;
+}
+.main-div-of-portfolio-component .below-table .minus{
+    padding: 20px 30px 0px 0px;
+}
+.main-div-of-portfolio-component .below-table h3{
+    color: #c1b008;
+}
+/* speacial traders data css */
+.main-div-of-portfolio-component .special-traders-main-div h2{
+    color: #fff;
+    margin: 0px 0px 0px 12px;
+    opacity: 0.9;
+}
+.main-div-of-portfolio-component .special-traders-main-div ul{
+    background: #202021;
+    list-style: none;
+    padding: 11px 0px 10px 55px;
+    color: #836f06;
+}
+.main-div-of-portfolio-component .special-traders-main-div ul li{
+    padding: 0px 0px 0px 15px;
+}
+.main-div-of-portfolio-component .special-traders-main-div ul .light-color{
+    color: #933b1d;
+}
+.main-div-of-portfolio-component .special-traders-main-div ul .white-color{
+    color: #fff;
+}

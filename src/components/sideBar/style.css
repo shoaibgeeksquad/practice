@@ -1,0 +1,134 @@
+.side-bar-main-div{
+    padding: 0px 0px 30px 0px;
+    background-color: #003979;
+}
+.side-bar-main-div .player-section{
+    padding: 0px 0px 10px 0px;
+}
+.side-bar-main-div .player-section h3{
+        margin: 0px;
+        color: #005999;
+        text-align: center;
+        padding: 10px 0px 10px 0px;
+}
+.side-bar-main-div .player-section .number{
+    background: #f0a300;
+    padding: 10px 14px 10px 14px;
+
+}
+.side-bar-main-div .player-section .number-20{
+    background: #f0a300;
+    padding: 10px 10px 10px 10px;
+}
+.side-bar-main-div .player-section img{
+    margin: 0px 0px -13px 5px;
+}
+.side-bar-main-div .player-section .winner-name{
+    line-height: 0px;    
+    margin: -19px 0px 0px 0px;
+}
+.side-bar-main-div .player-section .winner-name h6{
+    color: #fff;
+}
+.side-bar-main-div .player-section .winner-name h4{
+    color:#0072b1;
+}
+.side-bar-main-div .player-section .runner-name h4{
+    color:#0072b1;
+    margin: 10px 0px 0px 0px;
+}
+.side-bar-main-div .player-section .price{
+    line-height: 9px;
+    margin: -16px 0px 0px 0px;
+    font-size: 15px;
+}
+.side-bar-main-div .player-section .price p{
+    color: #fff;
+    text-align: center;
+}
+.side-bar-main-div .player-section .price .total-price-winner{
+    color: #fff;
+    background: #0cb9f5;
+    padding: 2px 8px 2px 7px;
+}
+
+/* lists of player css */
+.lists-of-players-main-div{
+    background-color: #91a3b1;
+    padding: 0px 0px 30px 0px;
+}
+.lists-of-players-main-div .number-inside-circle-div .circle-number{
+    margin:-15px 0px 0px 0px;
+    background: #f0a300;
+    width: 27px;
+    text-align: center;
+    border-radius: 21px;
+    padding: 5px 0px 4px 0px;
+    color: white;
+}
+.lists-of-players-main-div h3{
+    text-align: center;
+    color: white;
+    opacity: 0.9;
+}
+.lists-of-players-main-div .img-and-data-player .name-and-number-div{
+    margin: -11px 0px 0px 0px;
+}
+.lists-of-players-main-div .img-and-data-player .name{
+    background: #fff;
+    color: #62badc;
+    padding: 5px 20px 5px 20px;
+}
+.lists-of-players-main-div .img-and-data-player .number{
+    background: black;
+    color: white;
+    padding: 4px 15px 7px 15px;
+}
+/* players behind you css starts from here*/
+.lists-of-players-main-div .behing-you-players{
+    margin: 15px 0px 10px 0px;
+}
+.lists-of-players-main-div .players-behind-you-heading{
+    text-align: center;
+    color: #fff;
+}
+.lists-of-players-main-div .behing-you-players .behing-players-number{
+    background: black;
+    color: white;
+    padding: 5px 10px 5px 10px;
+    border-radius: 17px;
+
+}
+/* list of  markets  */
+.markets-table-main-div{
+    background: linear-gradient(to bottom, #201e1f 0%, #003778 100%);
+    padding: 0px 0px 20px 0px;
+    margin: 10px 0px 0px 0px;
+}
+.markets-table-main-div h4{
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+    padding: 10px 0px 10px 10px;
+    opacity: 0.9;
+}
+.markets-table-main-div table{
+    border-collapse: collapse;    
+    margin: 0px 0px 0px 10px;
+}
+.markets-table-main-div table tbody tr td{
+    color: white;
+    padding: 5px 5px 5px 45px;
+    border-collapse: collapse;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    opacity: 0.8;
+}
+.markets-table-main-div table thead tr th{
+    color: #f0a300;
+    padding: 5px 5px 5px 36px;
+}
+.markets-table-main-div table tbody tr .first-column{
+    color: #f0a300;
+    opacity: 0.9;
+    padding: 0px 0px 0px 0px;
+}

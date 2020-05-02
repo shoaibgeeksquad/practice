@@ -1,0 +1,28 @@
+.footer-main-div{
+    background:#003979;
+    padding: 0px 0px 5px 0px;
+    margin: 5px 0px 0px 0px;
+}
+.footer-main-div h3{
+    margin: 0px;
+    color: #fff;
+    padding: 7px 0px 0px 24px;
+    opacity: 0.9;
+}
+.footer-main-div .lists-of-footer ul{
+    list-style: none;
+    color: #fff;
+    padding: 0px 0px 0px 10px;
+}
+.footer-main-div .lists-of-footer ul li{
+    padding: 0px 0px 0px 15px;
+    opacity: 0.9;
+    font-weight: bold;
+}
+.footer-main-div .lists-of-footer ul .vertical-line{
+    padding: 0px 1px 0px 0px;
+    background: #fff;
+    margin: 0px 0px 0px 15px;
+    opacity: 0.6;
+    font-weight: bold;
+}

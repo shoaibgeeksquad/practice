@@ -1,0 +1,44 @@
+/* main div for background color */
+.header-main-div{
+    background: linear-gradient(to bottom left, #1b2d45 0%, #004f99 100%)
+}
+/* info and input main div css */
+.header-main-div .info-and-input-main-div{
+    width: 100%;
+}
+/* information css */
+.header-main-div .info-div {
+    background: #00aef7;
+    height: 54px;
+    width: 251px;
+    text-align: center;
+    padding: 0px 5px 12px 5px;
+    color: white;
+    border-radius: 2px;
+    margin: 10px 0px 0px 25px;
+}
+.header-main-div .info-div .number{
+    background: #fff;
+    color: black;
+    padding: 1px 5px 1px 5px;
+}
+.header-main-div .info-div .text{
+    color: black;
+    padding: 0px 0px 0px 5px;
+}
+
+/* input and button css */
+.header-main-div .input-btn-div{
+    
+    margin: 25px 0px 0px 0px
+}
+.header-main-div .input-btn-div button{
+    background: #eea200;
+    border: 1px solid #eea200;
+    padding: 5px 15px 5px 15px;
+    color: #fff;
+}
+.header-main-div .input-btn-div input{
+    padding: 0px 25px 0px 8px;
+    margin: 0px 10px 0px 0px;
+}

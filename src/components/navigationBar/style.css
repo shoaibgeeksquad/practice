@@ -1,0 +1,20 @@
+.background-img{
+    background-image: url(../../assests/images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 120vh;
+}
+.background-img .navbar-main-div{
+    background: linear-gradient(to left, #002d5b 0%, #192029 100%);
+    padding: 0px 0px 12px 0px;
+}
+.background-img .navbar-main-div ul{
+    margin: 0px 0px 0px 0px;
+    list-style: none;
+    color: white;
+    border-bottom: 1px solid #826d3a;
+}
+.background-img .navbar-main-div li{
+    padding: 14px 0px 0px 25px;
+    opacity: 0.9;
+}

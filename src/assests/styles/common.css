@@ -1,0 +1,27 @@
+/* small-circle for table */
+.small-circle{
+    padding: 18px 0px 0px 0px;
+    border-radius: 10px;
+    width: 20px;
+}
+.small-circle-green{
+    background: #4ab125;
+}
+.small-circle-red{
+    background: red;
+}
+
+/* rounded-button */
+.rounded-button{
+    font-size: 12px;
+    padding: 5px 15px 3px 15px;
+    border-radius: 15px;
+    background: #034078;
+    border: 1px solid #034078;
+    color: #fff;
+    opacity: 0.8;    
+}
+/* white-color */
+.color-white{
+    color: white;
+}

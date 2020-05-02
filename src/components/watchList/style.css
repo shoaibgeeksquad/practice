@@ -1,0 +1,86 @@
+.background-color-of-watchlist{
+    background:#1791d1;
+    padding: 2px 18px 66px 0px;
+}
+.background-color-of-watchlist .heading-of-watch-list {
+    background: #e69a0e;
+    width: 92px;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 75% 75%, 64% 75%, 14% 74%, 11% 57%);
+    padding: 0px 0px 0px 5px;
+    margin: -24px 0px 0px 18px;
+}
+
+.background-color-of-watchlist .heading-of-watch-list  h5{
+    padding: 3px 0px 12px 17px;
+}
+
+/* heading of stock watch list css */
+.background-color-of-watchlist .stock-watch-heading h2{
+    text-align: center;
+    color: #fff;
+    opacity: 0.9;
+}
+
+/* table css starts from here */
+.background-color-of-watchlist table{
+    border-collapse: collapse;
+    border-radius: 5px;
+    margin: 0px 0px 0px 40px;
+}
+.background-color-of-watchlist table thead tr th{
+    padding: 5px 20px 5px 20px;
+    border: 1px solid black;
+    color: #929c67;
+}
+.background-color-of-watchlist table tbody tr td{
+    padding: 5px 20px 5px 20px;
+    border: 1px solid black;
+}
+.background-color-of-watchlist table tr td .circle-center{
+    margin: 0px 0px 0px 30px;
+}
+.background-color-of-watchlist .below-table-total-stocks{
+    margin: 0px 0px 0px 90px;
+    color:#c1b008;
+    font-size: 16px;
+}
+.background-color-of-watchlist .below-table-total-stocks .reset-text{
+    margin: 10px 0px 0px 70px;
+    line-height: 0px;
+}
+.background-color-of-watchlist .below-table-total-stocks .reset-text h4{
+    color:#c1b008;
+}
+.background-color-of-watchlist .below-table-total-stocks .reset-text h6{
+    color:#fff;
+    font-size: 14px;
+}
+/* ---------- */
+/* right portion with table css starts here */
+.background-color-of-watchlist .right-portion-of-table .add-stock-heading-input{
+    margin: 43px 0px 0px 23px;
+}
+.background-color-of-watchlist .right-portion-of-table .add-stock-heading-input input{
+    margin: 0px 0px 0px 50px;
+}
+.background-color-of-watchlist .right-portion-of-table .add-stock-heading-input p{
+    margin: 10px 0px 0px 50px;
+    color: #0168ab;
+}
+.background-color-of-watchlist .right-portion-of-table .Target-heading-input{
+    margin: 0px 0px 0px 23px;
+}
+.background-color-of-watchlist .right-portion-of-table .Target-heading-input input{
+    margin: 0px 0px 0px 50px;
+}
+.background-color-of-watchlist .right-portion-of-table .Target-btn{
+    margin: 0px 0px 0px 25px;
+}
+.background-color-of-watchlist .right-portion-of-table .Target-btn button{
+    margin: 20px 0px 0px 50px;
+    padding: 1px 0px 1px 0px;
+    border-radius: 11px;
+    width: 167px;
+    background: #eea700;
+    border: 1px solid #eea700;
+}
