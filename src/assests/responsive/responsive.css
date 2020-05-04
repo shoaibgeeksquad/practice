@@ -1,0 +1,542 @@
+@media (max-width: 479px) and (min-width: 320px) { 
+    /* header responsive css */
+    .header-main-div img{
+        width: 247px;
+        height: 75px;
+    }
+    .header-main-div .info-and-input-main-div {
+        display: none;
+    }
+    /* navigation responsive css */
+    .background-img {
+        height: 32vh!important;
+    }
+    .background-img .navbar-main-div {
+        display: none;
+    }
+    /* watchlist components responsive */
+    .background-color-of-watchlist {
+       padding: 2px 0px 66px 0px!important;
+    }
+    .background-color-of-watchlist .desktop-view{
+        display: none;
+    }
+    .background-color-of-watchlist .mobile-view-table{
+        display: block!important;
+        padding: 0px 15px 0px 15px!important;
+    }
+    .background-color-of-watchlist table tbody tr td {
+        padding: 5px 20px 5px 34px!important;
+    }
+    .background-color-of-watchlist .right-portion-of-table .add-stock-heading-input {
+        margin: 7px 0px 0px 0px!important;
+        padding: 0px 15px 0px 15px;
+    }
+    .background-color-of-watchlist .right-portion-of-table .Target-heading-input {
+        margin: 7px 0px 0px 0px!important;
+        padding: 0px 15px 0px 15px;
+    }
+    .background-color-of-watchlist .below-table-total-stocks .reset-text {
+        margin: 10px 0px 0px 30px!important;
+    }
+    .background-color-of-watchlist table {
+        margin: 0px!important;
+        width: 100%!important;
+    }
+    .background-color-of-watchlist .main-div-of-table-desktop-responsive{
+        flex-direction: column;
+    }
+    .background-color-of-watchlist .below-table-total-stocks {
+        margin: 0px 0px 0px 38px!important;
+    }
+    /* portfolio component css */
+    .main-div-of-portfolio-component .portfolio-background-color {
+        flex-direction: column;
+    }
+    .portfolio-background-color .portfolio-heading-div {
+        margin: 30px 0px 11px 0px!important;
+        width: 303px!important;
+    }
+    .portfolio-background-color .portfolio-heading-div h5 { 
+        padding: 6px 0px 6px 8px!important;
+    }
+    .list-of-data{
+        flex-direction: column;
+        text-align: center;
+    }
+    .main-div-of-portfolio-component .portfolio-mobile-view-table {
+        display: block!important;
+    }
+    .main-div-of-portfolio-component .portfolio-desktop-table{
+        display: none;
+    }
+    .main-div-of-portfolio-component .mrg-btw-tables {
+        margin: 0px 0px 0px 0px!important;
+    }
+    .main-div-of-portfolio-component .reponsive-heading-table {
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        padding: 0px 15px 0px 15px;
+    }
+    .main-div-of-portfolio-component table tbody tr td {
+         padding: 7px 17px 7px 37px!important;
+    }
+    .main-div-of-portfolio-component .special-traders-main-div ul {
+        padding: 11px 0px 10px 10px!important;
+    }    
+    .main-div-of-portfolio-component .main-div-of-traders ul {
+        flex-direction: column;
+        text-align: center;
+    }
+    .footer-main-div .lists-of-footer ul {
+        flex-direction: column;
+        padding: 5px 0px 0px 0px!important;
+        text-align: center;
+    }
+    .footer-main-div h3 {
+        text-align: center;
+        padding: 9px 0px 0px 0px!important;
+    }
+    /* sidebar markets */
+    .markets-table-main-div table {
+        width: 100%;
+        margin: 0px 0px 0px 0px!important;
+    }
+    .markets-table-main-div table tbody tr .first-column{
+        padding: 0px 0px 0px 13px!important;
+    }
+    .markets-table-main-div table thead tr th {
+        padding: 5px 5px 5px 23px!important;
+    }
+    /* home page responsive css */
+    .components-flex {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 684px) and (min-width: 568px) { 
+    /* header responsive css */
+    .header-main-div{
+        justify-content: center;
+    }
+    .header-main-div img{
+        width: 333px;
+        height: 75px;
+    }
+    .header-main-div .info-and-input-main-div {
+        display: none;
+    }
+    /* navigation responsive css */
+    .background-img {
+        height: 92vh!important;
+    }
+    .background-img .navbar-main-div {
+        display: none;
+    }
+    /* watchlist components responsive */
+    .background-color-of-watchlist {
+       padding: 2px 0px 66px 0px!important;
+    }
+    .background-color-of-watchlist .desktop-view{
+        display: none;
+    }
+    .background-color-of-watchlist .mobile-view-table{
+        display: block!important;
+        padding: 0px 15px 0px 15px!important;
+    }
+    .background-color-of-watchlist table tbody tr td {
+        padding: 5px 20px 5px 66px!important;
+    }
+    .background-color-of-watchlist table tbody tr .rounded-button {
+        margin: 0px 0px 0px 21px;
+    }
+    .background-color-of-watchlist .right-portion-of-table .add-stock-heading-input {
+        margin: 7px 0px 0px 0px!important;
+        padding: 0px 15px 0px 15px;
+    }
+    .background-color-of-watchlist .right-portion-of-table .Target-heading-input {
+        margin: 7px 0px 0px 0px!important;
+        padding: 0px 15px 0px 15px;
+    }
+    .background-color-of-watchlist .below-table-total-stocks .reset-text {
+        margin: 10px 0px 0px 30px!important;
+    }
+    .background-color-of-watchlist table {
+        margin: 0px!important;
+        width: 100%!important;
+    }
+    .background-color-of-watchlist .main-div-of-table-desktop-responsive{
+        flex-direction: column;
+    }
+    .background-color-of-watchlist .below-table-total-stocks {
+        margin: 0px 0px 0px 38px!important;
+    }
+    .background-color-of-watchlist .right-portion-of-table .add-stock-heading-input {
+        margin: 0px 0px 0px 50px!important;
+    }
+    .background-color-of-watchlist .right-portion-of-table .Target-heading-input {
+        margin: 0px 0px 0px 50px!important;
+    }
+    .background-color-of-watchlist .right-portion-of-table .add-stock-heading-input input {
+        width: 200px;
+    }
+    .background-color-of-watchlist .right-portion-of-table .Target-heading-input input {
+        width: 200px;
+    }
+    .background-color-of-watchlist .right-portion-of-table .Target-btn button {
+        margin: 20px 0px 0px 90px!important;
+    }
+    /* portfolio component css */
+    .main-div-of-portfolio-component .portfolio-background-color {
+        flex-direction: column;
+    }
+    .portfolio-background-color .portfolio-heading-div {
+        margin: 30px 0px 11px 0px!important;
+        width: 303px!important;
+    }
+    .portfolio-background-color .portfolio-heading-div h5 { 
+        padding: 6px 0px 6px 8px!important;
+    }
+    .list-of-data{
+        flex-direction: column;
+        text-align: center;
+    }
+    .main-div-of-portfolio-component .portfolio-mobile-view-table {
+        display: block!important;
+    }
+    .main-div-of-portfolio-component .portfolio-desktop-table{
+        display: none;
+    }
+    .main-div-of-portfolio-component .mrg-btw-tables {
+        margin: 0px 0px 0px 0px!important;
+    }
+    .main-div-of-portfolio-component .reponsive-heading-table {
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        padding: 0px 15px 0px 15px;
+    }
+    .main-div-of-portfolio-component table tbody tr td {
+            padding: 7px 17px 7px 74px!important;
+    }
+    .main-div-of-portfolio-component .special-traders-main-div ul {
+        padding: 11px 0px 10px 10px!important;
+    }    
+    .main-div-of-portfolio-component .main-div-of-traders ul {
+        flex-direction: column;
+        text-align: center;
+    }
+    .main-div-of-portfolio-component table tbody tr td .circle-mrg {
+        margin: 0px 0px 0px 20px!important;
+    }
+    /* sidebar */
+    .img-and-data-player{
+        justify-content: center;
+    }
+    .img-and-data-player img{
+        padding: 0px 20px 0px 0px!important;
+    }
+    .markets-table-main-div table{
+        width: 100%;
+        padding: 0px 0px 0px 0px;
+    }
+    .markets-table-main-div table {
+        border-collapse: collapse;
+        margin: 0px 0px 0px 0px!important;
+    }
+    .markets-table-main-div table thead tr th {
+        color: #f0a300;
+        padding: 5px 0px 5px 0px!important;
+    }
+    .markets-table-main-div table tbody tr td {
+        padding: 5px 5px 5px 68px!important;
+    }
+    /* footer responsive css*/
+    .footer-main-div .lists-of-footer ul {
+        flex-direction: column;
+        padding: 5px 0px 0px 0px!important;
+        text-align: center;
+    }
+    .footer-main-div h3 {
+        text-align: center;
+        padding: 9px 0px 0px 0px!important;
+    }
+    /* home page responsive css */
+    .components-flex {
+            flex-direction: column;
+    }
+}
+
+@media (max-width: 767px) and (min-width: 685px) { 
+    /* header responsive css */
+    .header-main-div{
+        justify-content: center;
+    }
+    .header-main-div img{
+        width: 333px;
+        height: 75px;
+    }
+    .header-main-div .info-and-input-main-div {
+        display: none;
+    }
+    /* navigation section */
+    .background-img .navbar-main-div li {
+        padding: 11px 0px 0px 16px!important;
+    }
+    .background-img .navbar-main-div ul {
+        padding: 0px;
+    }
+    /* watchlist  */
+    .background-color-of-watchlist table {
+        margin: 0px 0px 0px 15px!important;
+    }
+    .main-div-of-table-desktop-responsive{
+        flex-direction: column;
+    }
+    .background-color-of-watchlist .right-portion-of-table .add-stock-heading-input input {
+        width: 200px;
+    }
+    .background-color-of-watchlist .right-portion-of-table .Target-heading-input input {
+        width: 200px;
+    }
+        /* portfolio component css */
+        .main-div-of-portfolio-component .portfolio-background-color {
+            flex-direction: column;
+        }
+        .portfolio-background-color .portfolio-heading-div {
+            margin: 30px 0px 11px 0px!important;
+            width: 303px!important;
+        }
+        .portfolio-background-color .portfolio-heading-div h5 { 
+            padding: 6px 0px 6px 8px!important;
+        }
+        .list-of-data{
+            flex-direction: column;
+            text-align: center;
+        }
+        .main-div-of-portfolio-component .portfolio-mobile-view-table {
+            display: block!important;
+        }
+        .main-div-of-portfolio-component .portfolio-desktop-table{
+            display: none;
+        }
+        .main-div-of-portfolio-component .mrg-btw-tables {
+            margin: 0px 0px 0px 0px!important;
+        }
+        .main-div-of-portfolio-component .reponsive-heading-table {
+            justify-content: center;
+            display: flex;
+            flex-direction: column;
+            padding: 0px 15px 0px 15px;
+        }
+        .main-div-of-portfolio-component table tbody tr td {
+                padding: 7px 17px 7px 74px!important;
+                text-align: center;
+        }
+        .main-div-of-portfolio-component table thead tr th {
+            padding: 7px 0px 7px 51px!important;
+        }
+        .main-div-of-portfolio-component .special-traders-main-div ul {
+            padding: 11px 0px 10px 10px!important;
+        }    
+        .main-div-of-portfolio-component .main-div-of-traders ul {
+            flex-direction: column;
+            text-align: center;
+        }
+        .main-div-of-portfolio-component table tbody tr td .circle-mrg {
+            margin: 0px 0px 0px 20px!important;
+        }
+    /* sidebar-responsive css */
+    .img-and-data-player{
+        justify-content: center;
+    }
+    .img-and-data-player img{
+        padding: 0px 20px 0px 0px!important;
+    }
+    .markets-table-main-div table{
+        width: 100%;
+        padding: 0px 0px 0px 0px;
+    }
+    .markets-table-main-div table {
+        border-collapse: collapse;
+        margin: 0px 0px 0px 0px!important;
+    }
+    .markets-table-main-div table thead tr th {
+        color: #f0a300;
+        padding: 5px 25px 5px 0px!important;
+    }
+    .markets-table-main-div table tbody tr td {
+        padding: 5px 5px 5px 68px!important;
+    }
+        /* home page responsive css */
+    .components-flex {
+            flex-direction: column;
+    }
+
+}
+
+
+@media (max-width: 991px) and (min-width: 768px) { 
+    /* header */
+    .header-main-div {
+        padding: 6px 0px 6px 0px;
+    }
+    .header-main-div img{
+        width: 247px;
+        height: 75px;
+    }
+    .header-main-div .info-div {
+        width: 181px!important;
+        padding: 0px 5px 10px 5px!important;
+        margin: 10px 0px 0px 11px!important;
+    }
+    /* navigation section */
+    .background-img .navbar-main-div li {
+        padding: 11px 0px 0px 16px!important;
+    }
+    .background-img .navbar-main-div ul {
+        padding: 0px;
+    }
+    .background-img {
+        height: 43vh!important;
+    }
+    /* watchlist component responsive css */
+    .main-div-of-table-desktop-responsive.justify-content-center.d-flex {
+        flex-direction: column;
+    }
+    .background-color-of-watchlist .heading-of-watch-list {
+        margin: -25px 0px 0px 18px!important;
+    }
+    .background-color-of-watchlist .right-portion-of-table .add-stock-heading-input {
+        margin: 0px 0px 0px 50px!important;
+    }
+    .background-color-of-watchlist .right-portion-of-table .Target-heading-input {
+        margin: 0px 0px 0px 50px!important;
+    }
+    .background-color-of-watchlist .right-portion-of-table .Target-btn button {
+        margin: 20px 0px 0px 90px!important;
+    }
+    .background-color-of-watchlist .right-portion-of-table .add-stock-heading-input input {
+        width: 200px;
+    }
+    .background-color-of-watchlist .right-portion-of-table .Target-heading-input input {
+        width: 200px;
+    }
+    /* portfolio component css */
+    .portfolio-background-color .mrg-right {
+        margin: 0px 0px 0px 0px!important;
+    }
+    .main-div-of-portfolio-component .mrg-top {
+        margin: -34px 0px 0px 0px!important;
+    }
+    .portfolio-desktop-table {
+        flex-direction: column;
+        justify-content: center;
+        margin: 0px 20px 0px 20px;
+    }
+    .main-div-of-portfolio-component table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    .main-div-of-portfolio-component .portfolio-background-color {
+        margin: -1px 0px 0px 0px;
+    }
+    .main-div-of-portfolio-component .main-div-of-traders ul {
+        flex-direction: column;
+        text-align: center;
+    }
+    .main-div-of-portfolio-component table tbody tr td {
+       padding: 7px 17px 7px 47px!important;
+    }
+    .main-div-of-portfolio-component .mrg-btw-tables {
+     margin: 0px 0px 0px 0px!important; 
+    }
+    .portfolio-background-color .portfolio-heading-div {
+        width: 354px!important;
+    }
+    /* sidebar-responsive css */
+    .img-and-data-player{
+        justify-content: center;
+    }
+    .img-and-data-player img{
+        padding: 0px 20px 0px 0px!important;
+    }
+    .markets-table-main-div table{
+        width: 100%;
+        padding: 0px 0px 0px 0px;
+    }
+    .markets-table-main-div table {
+        border-collapse: collapse;
+        margin: 0px 0px 0px 0px!important;
+    }
+    .markets-table-main-div table thead tr th {
+        color: #f0a300;
+        padding: 5px 25px 5px 0px!important;
+    }
+    .markets-table-main-div table tbody tr td {
+        padding: 5px 5px 5px 68px!important;
+    }
+    /* homepage component */
+    .components-flex {
+        flex-direction: column;
+    }
+
+}
+
+@media (max-width: 1199px) and (min-width: 1024px) { 
+        /* header */
+        .header-main-div {
+            padding: 6px 0px 6px 0px;
+        }
+        .header-main-div img{
+            width: 247px;
+            height: 75px;
+        }
+        .header-main-div .info-div {
+            width: 181px!important;
+            padding: 0px 5px 10px 5px!important;
+            margin: 10px 0px 0px 11px!important;
+        }
+        /* navigation section */
+        .background-img .navbar-main-div li {
+            padding: 11px 0px 0px 16px!important;
+        }
+        .background-img .navbar-main-div ul {
+            padding: 0px;
+        }
+        .background-img {
+            height: 43vh!important;
+        }
+        /* watchlist responsive css */
+        .background-color-of-watchlist .heading-of-watch-list {
+            margin: -26px 0px 0px 18px!important;
+        }
+        /* sidebar */
+        .img-and-data-player{
+            justify-content: center;
+        }
+        .img-and-data-player img{
+            padding: 0px 20px 0px 0px!important;
+        }
+        .markets-table-main-div table{
+            width: 100%;
+            padding: 0px 0px 0px 0px;
+        }
+        .markets-table-main-div table {
+            border-collapse: collapse;
+            margin: 0px 0px 0px 0px!important;
+        }
+        .markets-table-main-div table thead tr th {
+            color: #f0a300;
+            padding: 5px 90px 5px 0px!important;
+        }
+        .markets-table-main-div table tbody tr td {
+            padding: 5px 5px 5px 68px!important;
+        }
+        /* homepage responsice css */
+        .components-flex {
+            flex-direction: column;
+        }
+
+}

@@ -117,3 +117,8 @@
 .main-div-of-portfolio-component .special-traders-main-div ul .white-color{
     color: #fff;
 }
+
+/* mobile-view-table-for-responsive */
+.main-div-of-portfolio-component .portfolio-mobile-view-table{
+    display: none;
+}

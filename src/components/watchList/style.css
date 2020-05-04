@@ -84,3 +84,8 @@
     background: #eea700;
     border: 1px solid #eea700;
 }
+
+/* mobile view table */
+.background-color-of-watchlist .mobile-view-table{
+    display: none;
+}

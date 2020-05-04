@@ -40,7 +40,7 @@ export default () => {
                 </div>
             </div>
             {/* tables */}
-            <div className="d-flex justify-content-center">
+            <div className="portfolio-desktop-table d-flex justify-content-center">
                 <div className="mrg-btw-tables">
                     <div className="heading-of-portfolio-tables">
                         <h2>PORTFOLIO HOLDINGS</h2>
@@ -162,8 +162,60 @@ export default () => {
                         </tbody>
                     </table>
                     <div className="d-flex justify-content-center below-table">
-                        <img className="plus" src={Plus} alt="" width="20" height="20"/>
-                        <img className="minus" src={Minus} alt="" width="20" height="20"/>
+                        <img className="plus" src={Plus} alt="" width="20" height="20" />
+                        <img className="minus" src={Minus} alt="" width="20" height="20" />
+                        <h3>RESET</h3>
+                    </div>
+                </div>
+            </div>
+            {/* mobile-view-table-for-responsive */}
+            {/* tables */}
+            <div className="portfolio-mobile-view-table d-flex justify-content-center">
+                <div className="mrg-btw-tables reponsive-heading-table">
+                    <div className="heading-of-portfolio-tables">
+                        <h2>PORTFOLIO HOLDINGS</h2>
+                    </div>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>SYM</th>
+                                <th>VALUE</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>APPL</td>
+                                <td>$ 124,000</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                {/* 2nd table */}
+                <div className="reponsive-heading-table ">
+                    <div className="heading-of-portfolio-tables">
+                        <h2>STOCK WATCHLIST</h2>
+                    </div>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>SYM</th>
+                                <th>GAIN/LOSS</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>APPL</td>
+                                <td><div className="small-circle small-circle-red circle-mrg"></div></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div className="d-flex justify-content-center below-table">
+                        <img className="plus" src={Plus} alt="" width="20" height="20" />
+                        <img className="minus" src={Minus} alt="" width="20" height="20" />
                         <h3>RESET</h3>
                     </div>
                 </div>

@@ -11,7 +11,7 @@ export default () => {
         <>
             <Header />
             <Navbar />
-            <div className="d-flex">
+            <div className="d-flex components-flex">
                 <div style={{width:"100%"}}>
                     <WatchList />
                     <PortFolio />

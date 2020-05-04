@@ -1,5 +1,6 @@
 @import './common.css';
 @import './flex.css';
+@import '../responsive/responsive.css';
 
 body{
     padding: 0px;

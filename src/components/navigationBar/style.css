@@ -1,8 +1,8 @@
 .background-img{
-    background-image: url(../../assests/images/background.jpg);
+    background-image: url(../../assests/images/img.png);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 120vh;
+    height: 100vh;
 }
 .background-img .navbar-main-div{
     background: linear-gradient(to left, #002d5b 0%, #192029 100%);
